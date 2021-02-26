@@ -1,12 +1,9 @@
-## ITliujia（爱学习的刘童鞋） 
+## ITliujia（刘童鞋） 
 
-- 🐧 腾讯全栈开发攻城狮，全网 10w 粉技术博主
-- 🏡 作品：<a href="https://www.code-nav.cn" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/code-nav" target="_blank">求星星 ✨</a>
-- 🌱 热爱分享 <a href="" target="_blank">公众号『 程序员鱼皮 』</a>
-- 😺 趣讲技术：<a href="https://space.bilibili.com/12890453" target="_blank">B站 程序员鱼皮</a> | 抖音 coder_yupi
-- 💬 微信：liyupi66
-- 🤔 有问题欢迎知乎 <a href="https://www.zhihu.com/people/yupi-31-97" target="_blank">@程序员鱼皮</a>
-- 👬 QQ 千人编程交流群：818860952 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=Aevn1r1U-DJ7ajBLBjed7VmLV2ZW06hx&jump_from=webapi"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="和鱼皮一起学编程的朋友们" title="和鱼皮一起学编程的朋友们"></a>
+- 🐧  在校本科大学生
+- 🏡 作品：待更新
+- 🌱 热爱分享 <a href="" target="_blank">公众号『 ITliujia博客 』</a>
+
 
 ## 新年汇总 ✨
 
