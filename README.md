@@ -8,7 +8,7 @@ A undergraduatestudent of computer science & technology.
  
 ### 😊 About Me
 - I'm studying on **Computer Science & Technology** and **Software Engineering**, interested in IoT, Edge Computing, Data Center Network, SDN, ... 🔭
-- I'm looking to collaborate on any interesting ideas about the Internet 💡
-- I love designing beautiful things. I'm also willing to build opensource projects such as UI components library.💎📞
+- I'm looking to collaborate on any interesting ideas about the Internet.
+- I love designing beautiful things. I'm also willing to build opensource projects such as UI components library.
 
-At last, let's **Make Positive Impact!** 💪
+At last, let's **Make Positive Impact!** 
