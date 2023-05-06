@@ -3,7 +3,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=itliujia&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=ffffff&theme=graywhite&locale=en">
 </a>
 
-### 👋 Hi, It's ITliujia 
+### 👋 Hi, It's LiuSir 
 A undergraduatestudent of computer science & technology.
  
 ### 😊 About Me
