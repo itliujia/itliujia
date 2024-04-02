@@ -4,7 +4,7 @@
 </a>
 
 ### 👋 Hi, It's LiuHeo
-A undergraduatestudent of computer science & technology.
+A graduatestudent of computer science & technology.
  
 ### 😊 About Me
 - I'm studying on **Computer Science & Technology** and **Software Engineering**, interested in IoT, Edge Computing, Data Center Network, SDN, ... 
